@@ -1,8 +1,8 @@
 name: html_server
-description: A new Flutter package project.
+description: Start http service, visit url to get html string
 version: 0.0.1
 author: jethro
-homepage:
+homepage: https://github.com/jethroHuang/html_server
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
